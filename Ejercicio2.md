@@ -22,3 +22,9 @@ Tenemos nuevos movimientos, arriba, abajo, izquierda, derecha, en diagonal recta
 | Derecha-centro   |         |         |         |
 | Izquierda-Abajo  |         |         |         |
 | Izquierda-centro |         |         |         |
+
+Ejemplo de lo que puede ser una tabla con valores reales
+ 
+![](WhatsApp%20Image%202024-05-13%20at%2010.52.33%20AM.jpeg)
+
+Como se ve tenemos valores acertados o similares al phaser orignal, sin embargo podemos llegar a tener errores a la hora de la medición, en este caso lo que afecta al aprendizaje puede llegar a verse reflejado en la por las etapas y multicapas que le agreguemos al código.
